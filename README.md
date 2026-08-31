@@ -20,13 +20,13 @@ Design ❤️ | Programming 💙 | Music 💚
 
 I'm from Bihar - India  
 
-I have a site [here](https://itsthepiyush.web.app/)
+I have a site.
 
 It's all folks
 
 ## Github Stats
  
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ThePiyushVerma&show_icons=true&theme=default)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ThePiyush&show_icons=true&theme=default)
  
  
 
@@ -36,11 +36,11 @@ It's all folks
 
  
 <p align="center">
-    <a href="mailto:verma.piyush9@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
+    <a href="mailto:piyushraj10621@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
    <a href="https://api.whatsapp.com/send?phone=+919315395856"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a>
+  <a href="https://www.linkedin.com/in/@shoot_ae_piyush"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/@shoot_ae_piyush"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/@shoot_ae_piyush"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a>
 </p>
 
 <p align="center">
